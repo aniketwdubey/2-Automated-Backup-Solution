@@ -1,0 +1,23 @@
+2024-01-27 02:44:49,692 - INFO: Backup script started.
+2024-01-27 02:44:56,321 - INFO: New file created: /Users/aniketdubey/Desktop/Test/pxfuel.jpg
+2024-01-27 02:44:57,347 - ERROR: Error uploading /Users/aniketdubey/Desktop/Test/.DS_Store to S3: Failed to upload /Users/aniketdubey/Desktop/Test/.DS_Store to uploadbucket122/backup_20240127024456/.DS_Store: An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+2024-01-27 02:44:57,348 - ERROR: Failed to upload /Users/aniketdubey/Desktop/Test/.DS_Store to S3
+2024-01-27 02:44:58,365 - ERROR: Error uploading /Users/aniketdubey/Desktop/Test/peakpx-5.jpg to S3: Failed to upload /Users/aniketdubey/Desktop/Test/peakpx-5.jpg to uploadbucket122/backup_20240127024456/peakpx-5.jpg: An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+2024-01-27 02:44:58,365 - ERROR: Failed to upload /Users/aniketdubey/Desktop/Test/peakpx-5.jpg to S3
+2024-01-27 02:44:59,487 - ERROR: Error uploading /Users/aniketdubey/Desktop/Test/pxfuel.jpg to S3: Failed to upload /Users/aniketdubey/Desktop/Test/pxfuel.jpg to uploadbucket122/backup_20240127024456/pxfuel.jpg: An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+2024-01-27 02:44:59,487 - ERROR: Failed to upload /Users/aniketdubey/Desktop/Test/pxfuel.jpg to S3
+2024-01-27 02:48:07,838 - INFO: Backup script stopped.
+2024-01-27 02:48:11,079 - INFO: Backup script started.
+2024-01-27 02:48:18,579 - INFO: New file created: /Users/aniketdubey/Desktop/Test/uchiha-itachi.jpg
+2024-01-27 02:48:20,249 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/.DS_Store to backup_20240127024818/.DS_Store
+2024-01-27 02:48:23,723 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/peakpx-5.jpg to backup_20240127024818/peakpx-5.jpg
+2024-01-27 02:48:25,562 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/pxfuel.jpg to backup_20240127024818/pxfuel.jpg
+2024-01-27 02:48:28,130 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/uchiha-itachi.jpg to backup_20240127024818/uchiha-itachi.jpg
+2024-01-27 02:49:06,130 - INFO: Backup script stopped.
+2024-01-27 02:49:09,232 - INFO: Backup script started.
+2024-01-27 02:49:12,407 - INFO: New file created: /Users/aniketdubey/Desktop/Test/wallpaperflare.com_wallpaper-6.jpg
+2024-01-27 02:49:14,363 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/.DS_Store to backup_20240127024912/.DS_Store
+2024-01-27 02:49:18,491 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/peakpx-5.jpg to backup_20240127024912/peakpx-5.jpg
+2024-01-27 02:49:20,361 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/pxfuel.jpg to backup_20240127024912/pxfuel.jpg
+2024-01-27 02:49:31,964 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/wallpaperflare.com_wallpaper-6.jpg to backup_20240127024912/wallpaperflare.com_wallpaper-6.jpg
+2024-01-27 02:49:33,715 - INFO: Uploaded /Users/aniketdubey/Desktop/Test/uchiha-itachi.jpg to backup_20240127024912/uchiha-itachi.jpg
